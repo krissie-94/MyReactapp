@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krissie-94/MyReactapp.git/static/css/main.685af037.css",
+    "main.js": "/krissie-94/MyReactapp.git/static/js/main.a03ffabd.js",
+    "static/js/787.637b4048.chunk.js": "/krissie-94/MyReactapp.git/static/js/787.637b4048.chunk.js",
+    "index.html": "/krissie-94/MyReactapp.git/index.html",
+    "main.685af037.css.map": "/krissie-94/MyReactapp.git/static/css/main.685af037.css.map",
+    "main.a03ffabd.js.map": "/krissie-94/MyReactapp.git/static/js/main.a03ffabd.js.map",
+    "787.637b4048.chunk.js.map": "/krissie-94/MyReactapp.git/static/js/787.637b4048.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685af037.css",
+    "static/js/main.a03ffabd.js"
+  ]
+}
